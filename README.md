@@ -16,5 +16,6 @@
 ### Connect with me:
 🔗 **LinkedIn:** [Sahana Rajashekara](https://www.linkedin.com/in/sahana-rajashekara/)  
 🌐 **Portfolio:** [My Portfolio](https://sahanarajashekara.vercel.app/)
+📩 **Mail:** [Mail] (sahana359@gmail.com)
  
 
