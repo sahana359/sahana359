@@ -9,6 +9,7 @@
 ✏️ Java | Python | React | TypeScript | Spring Boot | MCP | RAG
 
 ### 🤝🏻 Connect with me:
-🔗 **LinkedIn:** [https://www.linkedin.com/in/sahana-rajashekara/)]  
-🌐 **Portfolio:** [https://sahanarajashekara.vercel.app/]  
+🔗 **LinkedIn:** [Sahana Rajashekara](https://www.linkedin.com/in/YOUR-LINK-HERE/)  
+🌐 **Portfolio:** [My Portfolio](https://your-portfolio-link.com)
+ 
 
