@@ -1,16 +1,14 @@
-## Hi there 👋
+#### Hello! My name is Sahana. I'm a Software Engineer focused on Full Stack Development and Agentic AI.
 
-<!--
-**sahana359/sahana359** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![IMG_7681](https://github.com/user-attachments/assets/18bd022d-67e5-4081-954b-fb846c8f86ec)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
+😎 Open to contracting opportunities if the project sounds cool.\
+✏️ Java | Python | React | TypeScript | Spring Boot | MCP | RAG
+
+### 🤝🏻 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/sahana-rajashekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahana-rajashekara" height="30" width="40" /></a>
